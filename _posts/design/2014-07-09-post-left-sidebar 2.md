@@ -9,7 +9,6 @@ image:
     title: tttty.png
     thumb: tttty.png
     homepage: tttty.png
-    caption_url: 
 ---
 Victims of New Mexico’s biggest wildfire could receive hundreds of millions of dollars from the federal government for the hardship they endured when the blaze roared across their land in 2022 after the U.S. Forest Service accidentally ignited it.
 

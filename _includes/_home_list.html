@@ -6,7 +6,8 @@
 *
 {% endcomment %}
 
-22222
+Total posts: {{ paginator.total_posts }}
+Total paginate-pages: {{ paginator.total_pages }}
 {% for post in paginator.posts %}
   <div class="row">
     <div class="small-12 columns b60">
@@ -24,7 +25,6 @@
  
 {% endfor %}
 
-1111
 <nav id="pagination">
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}

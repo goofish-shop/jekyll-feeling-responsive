@@ -15,7 +15,7 @@ header:
 *  TOC
 {:toc}
 </div>
-</div><!-- /.medium-4.columns -->
+</div><!-- /.medium-4.columns --> 
 
 
 

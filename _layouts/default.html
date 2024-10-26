@@ -5,6 +5,12 @@ layout: compress
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
 <head>
 	{% include _head.html %}
+	<script>
+		// 如果当前页面是首页，执行跳转
+		if (window.location.pathname === "/feeling-responsive/" || window.location.pathname === "/index.html") {
+			window.location.href = "/feeling-responsive/blog/";
+		}
+	</script>
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}

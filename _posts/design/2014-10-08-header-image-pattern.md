@@ -1,36 +1,27 @@
 ---
 layout: page
-title:  "Header Image With Pattern"
+title:  "From Reviled to Revered, an Enormous Pigeon Perches Atop the High Line"
 subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern."
+teaser: "“Dinosaur.” All photos by Timothy Schneck, courtesy of the High Line, shared with permission."
 categories:
     - design
-tags:
-    - design
-    - pattern
-    - header
-header:
-    image: header_unsplash_2-970x.jpg
-    pattern: pattern_concrete.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+header: no
+image:
+    title: argote-2.jpg
+    thumb: argote-2.jpg
+    homepage: argote-2.jpg
+    caption_url: 
 ---
-It's so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the [example with a background color]({{ site.url }}{{ site.baseurl }}/design/header-image-color/).
-<!--more-->
+The latest sculpture to grace New York City’s High Line is a monumental tribute to an unlikely creature.
 
-## Front Matter Code
+Perched above 10th Avenue, a hyper-realistic pigeon stops to rest in the outdoor pavilion. The work of artist Iván Argote (previously), the hand-painted, aluminum bird is titled “Dinosaur” and looms 21 feet in the air, rivaling the enormous proportions of some of its ancestors.
 
-~~~
-header:
-    image:  "header_unsplash_2-970x.jpg"
-    pattern:  "pattern_concrete.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
+Argote is known for questioning the role of monuments and statues, particularly as they relate to colonial histories and power imbalances. For this work, he upends the human-animal relationship and notions of migration and value as the common street bird is vaulted into a glorified figure, peering down on pedestrians and drivers. The artist says in a statement:
 
+The name “Dinosaur” makes reference to the sculpture’s scale and to the pigeon’s ancestors who millions of years ago dominated the globe, as we humans do today… the name also serves as a reference to the dinosaur’s extinction. Like them, one day we won’t be around anymore, but perhaps a remnant of humanity will live on—as pigeons do—in the dark corners and gaps of future worlds.
 
+Despite their ubiquity throughout North American cities, pigeons aren’t native to the continent. The birds were initially brought from Europe as a barnyard animal and food source, but as they escaped into the wild, they grew into the scavenging flocks they are today. No longer domesticated and not quite wild, pigeons occupy a unique position.
 
-### All Header-Styles 
-{: .t60 }
+Argote’s work is a cheeky nod to the birds and suggests they’re more deserving of appreciation than some of the figures we’ve collectively honored in the past. Standing tall and confident atop a concrete plinth, the sculpture also serves as a reminder that “everyone is an immigrant,” a statement says. “Even the pigeon, a New York fixture, initially migrated here and made the city their home, like millions of other ‘native’ New Yorkers.”
 
-{% include list-posts tag='header' %}
+“Dinosaur” will be on view through spring. Find more from Argote on Instagram.

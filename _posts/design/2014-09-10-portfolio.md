@@ -1,40 +1,24 @@
 ---
-layout: page-fullwidth
-title: "Show your beautiful work!"
-subheadline: "Portfolio"
-teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
+layout: page
+title: "Largest dam removal ever, driven by Tribes, kicks off Klamath River recovery"
+teaser: "The largest dam-removal project in history was completed in October, freeing 676 kilometers (420 miles) of the Klamath River and its tributaries in California and Oregon."
 categories:
     - design
+image:
+    title: Brook-at-iron-gate-1280x890.jpg
+    thumb: Brook-at-iron-gate-1280x890.jpg
+    homepage: Brook-at-iron-gate-1280x890.jpg
+    caption_url: 
 ---
-<!--more-->
+KLAMATH, CALIFORNIA—Brook M. Thompson was just 7 years old when she witnessed an apocalypse.
 
-<div class="row t60">
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
-    </div><!-- /.medium-6.columns -->
+“A day after our world renewal ceremony, we saw all these fish lined up on the shores, just rotting in piles,” says Thompson, a Yurok tribal member who is also Karuk and living in present-day Northern California. “This is something that’s never happened in our oral history, since time immemorial.”
 
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
-        <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
+During the 2002 fish kill in the Klamath River, an estimated 30,000 to 70,000 salmon died when the U.S. Bureau of Reclamation diverted water to farms instead of letting it flow downstream. This catastrophic event catalyzed a movement to remove four dams that had choked the river for nearly a century.
 
+Now, that decades-long tribal-led movement has finally come to fruition. As of Oct. 5, the four lower Klamath hydroelectric dams have been fully removed from the river, freeing 676 kilometers (420 miles) of the river and its tributaries. This is the largest dam-removal project in history.
 
-<div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
-        <p>Website: <a href="https://andersneu.de/">andersneu.de</a></p>
-    </div><!-- /.medium-4.columns -->
+Brook M. Thompson, a member of the Yurok Tribe who is also of Karuk Tribal descent, holds a piece of a demolished Copco dam on the Klamath River in February 2024. Photo courtesy of Brook M. Thompson.
+“This has been 20-plus years in the making, my entire life, and why I went to university, why I’m doing the degrees I’m doing now,” says Thompson, who is an artist, a restoration engineer for the Yurok Tribe and pursuing a Ph.D. in environmental studies at the University of California, Santa Cruz.
 
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
-        <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
-        <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
+“I feel amazing,” Thompson tells Mongabay at the annual Yurok Salmon Festival in Klamath, California, in late August, just weeks before the river was freed. “I feel like the weight of all that concrete is lifted off my shoulders.”

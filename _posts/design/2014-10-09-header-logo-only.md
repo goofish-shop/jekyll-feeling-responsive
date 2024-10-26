@@ -1,19 +1,25 @@
 ---
 layout: page
-title:  "Header With Logo Only"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background."
+title:  "A Defense of the Fudd"
+teaser: "There is something sad about the recent changes in American firearms culture."
 categories:
     - design
-tags:
-    - design
-    - background color
-    - header
+image:
+    title: qwe.png
+    thumb: qwe.png
+    homepage: qwe.png
+    caption_url: 
 ---
-No front matter code needed.
-<!--more-->
+American gun culture expanded significantly in the aftermath of 2020. The riotous year, the most divisive since 1968, drove record gun sales. The demand for firearms hasn’t slowed in the years since, effectively sidelining the gun-control debate and creating a new generation of gun owners. While Second Amendment activists are undoubtedly pleased by the influx of new firearm owners, this expansion has led to some tension among firearm owners.
 
-### All Header-Styles 
-{: .t60 }
+I’ll start off by admitting that I am probably classified as a “Fudd.” Fudd is a derogatory term for gun owners who are primarily sportsmen, expending their shells on dove or deer while harboring a sentimental attachment to their firearms. The slight derives from Elmer Fudd, the shotgun-toting rabbit hunter immortalized by Looney Tunes. There’s some truth behind the generalization. Fudds generally carry double-barrel, over-under, or pump-action shotguns. If they’re carrying a rifle, you’ll find them with a Winchester Model 70 or Remington Model 700. You won’t generally find them covered head-to-toe in camouflage. In Texas, they might sport blue jeans and a cowboy hat. In colder climates, they might don the Elmer Fudd hat itself. A Fudd might own an AR-15 and some camo, but they would never brandish it; some might not even admit it. To a Fudd, an Armalite rifle might be a useful tool of self-defense, but it is undoubtedly a vulgar departure from the craftsmanship and tradition that once defined American sporting.
 
-{% include list-posts tag='header' %}
+I’ll concede that Fudds might be influenced by a tinge of luxury. Though I was toting a Ruger .22 and .410 shotguns when I was a small child, this is an unusual experience in an increasingly urbanized America. Access to land and wildlife, once a given in American life, is now a rarity. Despite 32 percent of Americans owning a firearm, only six percent hunted in 2023. Land accessibility—a modern privilege—is the key driver. A staggering 88 percent of the 2021–2022 white-tailed deer harvest, the U.S.’s most sought-after game, occurred on privately-held land. Fudd culture, the country’s traditional sporting culture, is becoming unattainable.
+
+Much to the chagrin of the M1 Garand owner at your local range, newer classes of firearm owners are crowding out the Fudds. Participation in shooting sports, generally at local ranges, increased 42 percent from 2020 to 2022. Since 2009, participation has jumped 24 percent. The change has ushered in a new, combative firearm culture. Ironically, camo sales have jumped as hunting participation has declined, anecdotally driven by newcomers at the range. (I suppose Nashville’s popification has contributed some as well.) This marks a departure from the olive green Barbour coats or khaki safari shirts that adorn your average Fudd. Second Amendment symbology, previously limited to a small NRA logo on the back of a pick-up with a gun rack, has expanded to include a collection of emblems, flags, and insignias. Punisher skulls, popularized domestically in the aftermath of the Iraq War, are a common sight at ranges across the United States. The ominous skull is generally accompanied by other militarized regalia, from tactical boots to the firearms themselves.
+
+If you ever come across a Fudd, you might hear them deride the new-coming gun owners as “tacticool.” Tacticool refers to the sometimes ostentatious behavior of self-defense enthusiasts. Their ear-drums blown out at the range by AR-15s and AK-47s, Fudds are inclined to raise an eyebrow. Red-dot sights, flashlights, bump stocks, scopes, and every other James Bond–esque device you could think of strike the Fudd as unnecessary. Given the average shooting takes place at three yards, discharges three rounds, and wraps up in 3 seconds, the Fudds are generally right. Tacticools might point to hog hunting as justification for the arms race, and there’s some merit to that, but Americans have been hunting hogs since Hernando De Soto loosed them on the continent.
+
+Tension between traditional sportsmen and newcomers wouldn’t matter outside of their circles if not for the public policy implications. Tacticools, generally urban and concerned with self-defense, view their firearms as a means of protection and increasingly as a defense against government. This attitude prompted President Joe Biden to address the phenomenon, crassly blustering that domestic militias would be dispatched with the Air Force. Regardless, tacticool bravado and associated no-compromise politics create unease among the Fudds. Open-carrying an AR-15 into a Texas diner might be a legal expression of one’s rights, but to the Fudd it is undoubtedly distasteful. The sea-change in American gun culture may have provided short-term benefits, but the widespread embrace of culturally alienating habits may prove a long-term political liability.
+
+Fudds, despite my protests, are fading from American life. Their good-natured politics, love for craftsmanship, and appreciation for sporting tradition are as outmoded in modern America as Elmer himself. Technologists, range enthusiasts, and activists are ascendant. Just as the F-series gives way to the Cybertruck, wood gives way to aluminum alloy. A time-honored ethos is being lost, a piece of heritage American culture soon to be replaced. Activists may deride them, but a simpler age passes with the Fudd. In time, we may grow to regret their loss.

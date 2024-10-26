@@ -1,73 +1,24 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: "Video & Music Player"
-title: "Play Audio & Video with media&shy;element.js"
-teaser: "Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of <em>mediaelement.js</em>. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8."
+title: "The joy of foraging"
+teaser: Offering an escape from industrial foods, foraging nourishes the soul and body, but it needs democratic access to the land
 categories:
   - design
-tags:
-  - audio player
-  - video player
-  - streaming music
 #
 # Styling
 #
 header: no
 image:
-    title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
-    caption_url: https://blaz.photography/
-mediaplayer: true
+    title: test.png
+    thumb: test.png
+    homepage: test.png
+    caption_url: 
 ---
-[mediaelement.js][1] is like magic. It's browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to `true`.
+Food collected directly from nature appeals to me at a fundamental level. Growing up in India, with roots in the western Himalayas, I enjoyed family holidays that involved fishing or looking for wild berries. Even in the drier urban plains where we normally lived, my parents introduced us to roadside fruit like the vitamin- (and worm-) rich hard berries called ber, the sweet and tangy jamun and falsa that dyed our fingertips and tongues purple, and small wild mangoes that line some of Delhi’s older avenues.
 
-~~~
-mediaplayer: true
-~~~
+As an adult living and working in the green and cosmopolitan university town of Oxford, I continued my occasional forays into wild foods. I picked blackberries and apples, and made English crumble. I steeped the otherwise inedible sloes in sugar and gin, and treated visiting friends and family to a delightfully scarlet, fruity tipple.
 
-To use the player just use some HTML5-magic like...
+Yet only in the past two years have I embraced the gathering of wild food as an almost daily activity. Like many others, I am uncomfortable with ultra-processed food, which is disembedded from soil, climate, culture and place. A handful of corporations control the bulk of agricultural inputs such as seeds and fertilisers, and also the global food trade. Our cheap food, produced in large volumes for high profits, emerges from battery farming, chemical dependence, pollution and the exploitation of labour in globalised value chains. The cheapening of food, and life, in the industrial food complex is symbolic of our distancing from nature. This distancing is at the heart of the climate crisis.
 
-{% highlight html %}
-<audio src="http://path-to-file.com/music.mp3" type="audio/mp3" controls="controls"></audio>
-{% endhighlight %}
+Modern-day hunter-gatherers or foragers that I know are part of the boomerang effect of McFoodification. In the UK, online foraging communities like Wild Food Larder (membership 210,000+) and Mushroom Spotters UK (membership 93,000+) have new people joining every day. These online groups are free, open to all, and a source of information and community-based advice. There is also an emerging foraging market, with organic retailers selling coveted foods such as wild garlic and chanterelle mushrooms at a premium. Somewhere between community-led initiatives and market-facing ones are a slew of foraging walks and courses, and foraging chefs, who also have an online presence. Here, the new or intrepid forager can get advice on what to forage and when, while dipping into hyper-local, organic produce. Hedgerow jams and jellies, elderflower or nettle cordials, blackberry gin and apple cider, ‘chicken of the woods’ mushroom pies, dandelion syrup and herbal oils are part of this new, yet old and quaint, foraging universe.
 
-All possible functions and how to use *mediaelement.js* is well-documented on the [players website][1].
-
-
-
-## »Music From All Around The World«
-
-[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
-
-### B-Ju - »Philly Run«
-
-<audio src="http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3" type="audio/mp3" controls="controls"></audio>
-
-### Comfort Fit - »Freeze The Cut«
-
-<audio src="http://archive.org/download/music_from_all_around_the_world/05._music_from_all_around_the_world_-_comfort_fit_-_freeze_the_cut_opolopos_emotional_draft_remix.mp3" type="audio/mp3" controls="controls"></audio>
-
-### The Black Atlantic - »Dandelion«
-
-<audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio>
-
-[Download Compilation ›](https://archive.org/details/music_from_all_around_the_world)
-{: .t30 .button .radius}
-
-
-
- [1]: http://mediaelementjs.com/
- [2]: http://jcorneille.de/
- [3]: www.creativecommons.org/licenses/by-nc-nd/3.0/
- [4]: http://phlow-magazine.com/
- [5]: https://archive.org/details/music_from_all_around_the_world
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #

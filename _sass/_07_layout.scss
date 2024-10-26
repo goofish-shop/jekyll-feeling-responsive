@@ -249,7 +249,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #up-to-top {
-    padding: 160px 0 10px 0;
+    // padding: 160px 0 10px 0;
 }
 #up-to-top a {
     font-size: 24px;
@@ -274,12 +274,12 @@ body.video cite { color: #fff; }
 #footer {
     padding-top: 30px;
     padding-bottom: 20px;
-    background: $footer-bg;
+    background: #2B3137;
     color: $footer-color;
     }
 
     #footer a {
-        color: $footer-link-color;
+        color: #DEE3E6;
     }
     #footer h4,
     #footer h5 {
@@ -294,7 +294,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #subfooter {
-    background: $subfooter-bg;
+    background: #DEE3E6;
     color: $subfooter-color;
     padding-top: 30px;
 }
@@ -325,7 +325,7 @@ body.video cite { color: #fff; }
     width: 36px;
     border-radius: 50%;
     color: $subfooter-bg;
-    background: $subfooter-color;
+    // background: $subfooter-color;
     text-align: center;
     &:hover {
       background: $subfooter-bg;
@@ -352,7 +352,7 @@ body.video cite { color: #fff; }
 .b15 { margin-bottom: 15px !important; }
 .b20 { margin-bottom: 20px !important; }
 .b30 { margin-bottom: 30px !important; }
-.b60 { margin-bottom: 60px !important; }
+// .b60 { margin-bottom: 60px !important; }
 
 .l15 { margin-left: 15px !important; }
 .r15 { margin-right: 15px !important; }
